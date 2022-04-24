@@ -1,4 +1,4 @@
-# Breast_Cancer_Prediction:
+# Clasificación de tumores en casos de cáncer de mama:
 
 Según la organización mundial de la salud, el cáncer de mama es el tipo de cáncer más común, con mas de 2.2 millones de casos reportados en 2020, una de cada 12 mujeres padeceran de este tipo de cáncer a lo largo de su vida, esta enfermedad es una de las principales causas de muerte en mujeres, 685000 mujeres fallecieron en el año 2020 a causa de cáncer de mama.
 
